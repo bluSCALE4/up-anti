@@ -1,6 +1,6 @@
 {
-  "name": "Getting Started Example",
-  "description": "Build an Extension!",
+  "name": "Up-Anti",
+  "description": "Up the ante on ad-blocking",
   "version": "1.0",
   "manifest_version": 3,
   "background": {
